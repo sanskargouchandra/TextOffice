@@ -1,7 +1,4 @@
 <div align="center">
-
-
-  <img src="https://pngimg.com/uploads/amazon/amazon_PNG25.png" width='400' alt="logo" />
   
   # TextOffice
   
@@ -20,13 +17,13 @@ The TextOffice is the react based webapp the the most helpful WebApp which helps
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/AMAZON-Clone)
 
 <h4>
-    <a href="https://clone-dd86d.web.app">View Demo</a>
+    View Demo
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/sanskargouchandra/TextOffice/blob/main/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Report Bug</a>
+    <a href="https://github.com/sanskargouchandra/TextOffice/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Request Feature</a>
+    <a href="https://github.com/sanskargouchandra/TextOffice/issues">Request Feature</a>
   </h4>
 </div>
 
